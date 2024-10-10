@@ -8,4 +8,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xnern&" alt="xnern" /></p>
 
-<p align="center"><img align="center" src="https://roadmap.sh/card/wide/65eee659ec93339b182578bb?variant=dark" alt="roadmap.sh" /></p>
+<p align="center"><img align="center" src="(https://roadmap.sh/card/wide/65eee659ec93339b182578bb?variant=dark&roadmaps=devops%2Cux-design" alt="roadmap.sh" /></p>
